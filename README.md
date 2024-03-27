@@ -14,7 +14,11 @@ Time Management Telegram Bot - это инструмент, предназнач
 ## Технологии
 
 - **Язык программирования**: Java
+- **Фреймворк**: Spring
+- **Библиотеки**: Hibernate, QueryDSL, Lombok, Log4j
+- **Библиотеки для тестирования**: JUnit5, Testcontainers PostgreSQL
 - **Библиотека для создания ботов**: [java-telegram-bot-api](https://github.com/rubenlagus/TelegramBots)
+- **Сборщик проекта**: Maven
 - **База данных**: PostgreSQL
 - **Дополнительные инструменты**: Docker для развертывания и упрощения разработки
 
